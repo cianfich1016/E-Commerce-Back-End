@@ -16,7 +16,12 @@
   Clone repository. Run "npm install" in the command line. Check dependencies to make sure the following packages are installed: dotenv, express, mysql2, and sequelize. If not, run "npm i package_name" to do so. 
 
   ## Usage
-  Run "npm start" from the command line to begin the server. Use Insomnia or another route testing program to view, create, delete and update products, categories and tags.
+  Run "npm start" from the command line to begin the server. Use Insomnia or another route testing program to view, create, delete and update products, categories, and tags.
+
+  ![Example of GET all Categories](./images/GET.png)
+  ![Example of POST on a Tag with JSON body written to create new Tag.](./images/POST.png)
+  ![Example of DELETE on a Product id with results of confirmation that the specific product was deleted.](./images/DELETE.png)
+  ![Example of PUT on a Product id with JSON body edited and results of confirmation that id in url was changed.](./images/PUT.png)
   ## Credits
   Contributors to the project: Starter code provided by Georgia Institute of Technology
 
