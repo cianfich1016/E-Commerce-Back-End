@@ -22,6 +22,8 @@
   ![Example of POST on a Tag with JSON body written to create new Tag.](./images/POST.png)
   ![Example of DELETE on a Product id with results of confirmation that the specific product was deleted.](./images/DELETE.png)
   ![Example of PUT on a Product id with JSON body edited and results of confirmation that id in url was changed.](./images/PUT.png)
+
+  View video [here.](https://watch.screencastify.com/v/eZvDfYp99tAuZc6sk4zR)
   ## Credits
   Contributors to the project: Starter code provided by Georgia Institute of Technology
 
