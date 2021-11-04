@@ -23,7 +23,7 @@
   ![Example of DELETE on a Product id with results of confirmation that the specific product was deleted.](images/Delete.png)
   ![Example of PUT on a Product id with JSON body edited and results of confirmation that id in url was changed.](images/Put.png)
 
-  View video [here.](https://watch.screencastify.com/v/eZvDfYp99tAuZc6sk4zR)
+  View video to connect database to server and seed data [here](https://watch.screencastify.com/v/NRtmlgc5R9yoseqao6FG) and the working of routes[here.](https://watch.screencastify.com/v/eZvDfYp99tAuZc6sk4zR)
   ## Credits
   Contributors to the project: Starter code provided by Georgia Institute of Technology
 
